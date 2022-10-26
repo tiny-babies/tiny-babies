@@ -2,8 +2,8 @@
 # About Me
 I am a honors student at the University of California Santa Barbara. I am in my fourth year of studying Computer Science where I devote myself to maintain a high GPA, but I also love to pick up creative side projects in my spare time to build my programming skills.
 
-##Personal Website
-#My Personal Website is hosted by Github at <https://tiny-babies.github.io/> where you can check out a better summary of my portfolio.
+## Personal Website
+# My Personal Website is hosted by Github at <https://tiny-babies.github.io/> where you can check out a better summary of my portfolio.
 
 # My favorite projects:
 - <https://tiny-babies.github.io/spotify>
