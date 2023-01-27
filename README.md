@@ -6,7 +6,7 @@ I am a honors student at the University of California Santa Barbara. I am in my 
 ## My Personal Website is hosted by Github at <https://tiny-babies.github.io/> where you can check out a better summary of my portfolio.
 
 # My favorite projects:
-- <https://tiny-babies.github.io/spotify>
+- <https://tiny-babies.github.io/utune
 - <https://tiny-babies.github.io/>
 - <https://github.com/tiny-babies/YelpCamp>
 - <https://github.com/tiny-babies/VaxMan>
