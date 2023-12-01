@@ -2,8 +2,11 @@
 # About Me
 I am an honors New Grad from the University of California Santa Barbara with a degree in Computer Science. I love to pick up creative side projects in my spare time to build my programming skills, and here are a few of my favorites.
 
+## Online Portfolio
+You Can view my personal website / online portfolio at <https://nickjohnsonucsb.github.io>.
+
 ### Spotify Analysis App
-If you are a Spotify user, I highly recommend you try it out! <https://tiny-babies.github.io/utune> It has been officially recognized by Spotify and it is free to use by all!
+If you are a Spotify user, I highly recommend you try it out! <https://nickjohnsonucsb.github.io/utune> It has been officially recognized by Spotify and it is free to use by all!
 - Used Node.js and React with Spotify’s authentication workflow to ingest the Spotify Web API and display personalized account insights and analytics with responsive graphics. 
 
 ### Social Media Food App
